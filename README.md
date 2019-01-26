@@ -1,3 +1,3 @@
 # SM
 
-Story maker "Anel Meydina Sabbaha"
+Story maker "..."
